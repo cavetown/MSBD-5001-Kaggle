@@ -11,5 +11,6 @@ For the in class kaggle competition
 
 
 
-Name: Ronisha Basker
-Student ID: 20670423
+Name: Ronisha Basker,
+Student ID: 20670423,
+Team Name: Sonderdays
